@@ -1,0 +1,87 @@
+Button{
+    position:absolute;
+    bottom: 10.5rem;
+    left: 4.2rem;
+}
+figcaption{
+    position:absolute;
+    bottom: 22.2rem;
+    margin-left: 4rem;
+    color: orangered;
+    font-size: 1.3cm;
+    font-weight: 700 ;
+
+}
+figcaption1{
+    position:absolute;
+    bottom: 22.2rem;
+    margin-left: 10.1rem;
+    color: black;
+    font-size: 1.3cm;
+    font-weight: 700 ;
+}
+figcaption2{
+    position:absolute;
+    bottom: 22.2rem;
+    margin-left: 15rem;
+    color: turquoise;
+    font-size: 1.3cm;
+    font-weight: 700 ;
+}
+figcaption3{
+    position:absolute;
+    bottom: 22.2rem;
+    margin-left: 27rem;
+    color: black;
+    font-size: 1.3cm;
+    font-weight: 700 ;
+}
+figcaption4{
+    position:absolute;
+    bottom: 18rem;
+    margin-left: 4rem;
+    color: orangered;
+    font-size: 1.3cm;
+    font-weight: 700 ;
+
+}
+figcaption5{
+    position:absolute;
+    bottom: 18rem;
+    margin-left: 10.5rem;
+    color: black;
+    font-size: 1.3cm;
+    font-weight: 700 ;
+}
+figcaption6{
+    position:absolute;
+    bottom: 18rem;
+    margin-left: 17.5rem;
+    color: turquoise;
+    font-size: 1.3cm;
+    font-weight: 700 ;
+}
+figcaption7{
+    position:absolute;
+    bottom: 18rem;
+    margin-left: 29.1rem;
+    color: black;
+    font-size: 1.3cm;
+    font-weight: 700 ;
+}
+
+figcaption8{
+    position:absolute;
+    bottom: 15.5rem;
+    margin-left: 4.2rem;
+    font-size: 0.5cm;
+    
+}
+figcaption9{
+    position:absolute;
+    bottom: 14rem;
+    margin-left: 4.2rem;
+    font-size: 0.5cm;
+    
+}
+
